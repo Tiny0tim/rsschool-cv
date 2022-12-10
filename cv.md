@@ -7,6 +7,8 @@
 3. **About me**
     * I live in Moscow. My name is Timur Ramazanov. I'm a sophomore at the RSUH university, specialiazing in sociological research. I’m 19 years old.
     * Work experience
+        Translator
+        Synchronised translation of AMA-sessions and podcasts with the project's CEO.
         March 2022 — April 2022
         2 months
         Kitty Crypto Gang NFT collection
@@ -19,14 +21,12 @@
         GooniezG NFT collection
         gooniezgang.com/
 
-        Translator
-        Synchronised translation of AMA-sessions and podcasts with the project's CEO.
+        HR
+        Staff management, assigment of junior moderators in chat, social interactions, finance and salary management.
         September 2021 — January 2022
         5 months
         Trippin Ape Tribe NFT collection
         www.trippinapetribe.xyz/
-        HR
-        Staff management, assigment of junior moderators in chat, social interactions, finance and salary management.
 4.  **Skills**:
     * **Computer utilities Skills**:
     Microsoft Excel, Microsoft Power Point, Adobe Illustrator, Adobe Photoshop, Premier Pro.
