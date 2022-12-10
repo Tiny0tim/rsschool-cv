@@ -19,7 +19,7 @@
     January 2022 — March 2022
     3 months
     GooniezG NFT collection
-    gooniezgang.com/
+    www.gooniezgang.com/
 
     HR
     Staff management, assigment of junior moderators in chat, social interactions, finance and salary management.
@@ -38,8 +38,7 @@
     * **Courses and self education**:
     Studying in Rolling Scopes School - Frontend JS
     Stepik "Python Generation" - Python Backend
-5. **Code examples**:
-    * 
+5. **Code examples**: 
     https://github.com/Tiny0tim/Repository
 6. **Foreign languages**
     * English - C1
