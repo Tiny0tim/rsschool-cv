@@ -1,4 +1,4 @@
-![](D:\фотки\bezimeni.png)
+![](/bezimeni.png)
 1. **My full name**: Timur Ramazanov
 2. **Ways to contact me**:
     1. timurramazanovramz@gmail.com
