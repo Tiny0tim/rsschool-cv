@@ -29,7 +29,7 @@
     www.trippinapetribe.xyz/
 4.  **Skills**:
     * **Computer utilities Skills**:
-    Microsoft Excel, Microsoft Power Point, Adobe Illustrator, Adobe Photoshop, Premier Pro.
+    Microsoft Excel, Microsoft PowerPoint, Adobe Illustrator, Adobe Photoshop, Premier Pro.
     Python и HTML, CSS, JavaScript, Node.js
     * **Published works**:
     Published works on medium.com website about Multichain platform Axelar https://medium.com/@TinyTimmy
