@@ -6,49 +6,21 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <style>
-        .text {
-            font-size: 18px;
-            font-family: "Comic Sans MS", sans-serif;
-
-        }
-        .headliner {
-            font-size: 20px;
-            font-family: "Comic Sans MS",sans-serif
-
-        }
-        .box {
-        width: 500px;
-        height: 60px;
-        border-width: 0;
-        border-style: solid;
-        text-align: center;
-        }
-    </style>
-    <style>
-        .boxside {
-            width: 80px;
-            height: 100px;
-            border-width: 0;
-            border-style: solid;
-            background-color: rgba(0, 0, 0, 0.5);
-            text-align: left;
-        }
-    </style>
+    <link rel="stylesheet" href="Styles.Plants.css">
 </head>
-<body>
-<header>
+<body class="backgroundcolor">
+<header class="container">
     <aside class="boxside">
-    <nav>
-        <a href="#punkt1">About me</a>
-        <a href="#punkt2">My skills</a>
-        <a href="#punkt3">Ways to contact me</a>
-    </nav>
+        <nav class="navstyles">
+            <a href="#punkt1">About me</a>
+            <a href="#punkt2">My skills</a>
+            <a href="#punkt3">Ways to contact me</a>
+        </nav>
     </aside>
 </header>
-<img src="bezimeni.png" alt="Picture of my face" height="640" width="480" align="right">
-<main>
-    <ol>
+<main class="container">
+    <img src="me.jpg" class="img" alt="Picture of my face" height="640" width="480">
+    <ol class="sdvig">
         <li class="headliner">
             My full name: Timur Ramazanov
         </li>
@@ -96,11 +68,11 @@
         </li>
     </ol>
 </main>
-<footer>
+<footer class="container">
     <div class="box">
-    <a style="text-align: left" href="https://github.com/Tiny0tim"><img src="https://avatars.mds.yandex.net/i?id=20528757a359278989b3c5d6e33f4d14_sr-3752796-images-thumbs&n=13" alt="Logo" width="50" height="50"></a>
-     2022
-    <a style="text-align: right" href="https://rs.school/js/"><img src="https://rs.school/images/rs_school_js.svg" alt="logo" width="50" height="50"></a>
+        <a class="ikonki" style="text-align: left" href="https://github.com/Tiny0tim"><img src="https://avatars.mds.yandex.net/i?id=20528757a359278989b3c5d6e33f4d14_sr-3752796-images-thumbs&n=13" alt="Logo" width="50" height="50"></a>
+        <span class="ikonki">2023</span>
+        <a class="ikonki" style="text-align: right" href="https://rs.school/js/"><img src="https://rs.school/images/rs_school_js.svg" alt="logo" width="50" height="50"></a>
     </div>
 </footer>
 </body>
